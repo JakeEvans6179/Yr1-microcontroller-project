@@ -1,0 +1,2 @@
+The following program is used on a microcontroller within a proximity sensor circuit which uses infrared emitters and receivers to detect when an object is in close proximity to the board.
+The board will then register the event and increment a dual digit 7 segment display by 1.
